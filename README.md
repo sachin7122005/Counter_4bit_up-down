@@ -214,7 +214,7 @@ It contains statements that map logical library names to their physical director
 <img width="1906" height="1012" alt="Screenshot 2025-09-01 092308" src="https://github.com/user-attachments/assets/e4745b80-2660-40b5-90bc-5269d19d06c5" />
 
 ## Fig 10: Simulation Waveform Window
-<img width="1919" height="1013" alt="Screenshot 2025-09-01 092558" src="https://github.com/user-attachments/assets/0c8bd2ef-5051-436b-8005-563b530260c8" />
+<img width="1919" height="1018" alt="Screenshot 2025-09-01 092827" src="https://github.com/user-attachments/assets/e344fecf-b008-47a2-8a2c-e9ba98d00bcc" />
 
 
 ### Result
